@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project MusicPlayer)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "MusicPlayer",
+    "language": "java"
+  }
+]
